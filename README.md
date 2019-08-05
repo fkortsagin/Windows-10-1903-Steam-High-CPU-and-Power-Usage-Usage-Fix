@@ -8,6 +8,11 @@ If you feel that you CPU and PSU are melting down during downloads from Steam on
 2)Turn Everything off 
 
 Optional:Roll back to Windows 1809 build and turn the Feature updates off on Windows Pro versions until all the bugs are squashed in 1903 and later versions
-
+Steps below:
+1) Open Edge
+2) Open https://www.microsoft.com/en-us/software-download/windows10
+3) Edge>Settings>Developer Tools>Emulation>in the Device section Select IPad or Ipad Mini and you'll have an option to download the Windows 1809 October Build.
+Both screen shots provided
+That's it.Enjoy!
 Cheers
 #gimalaji_blake
